@@ -1,0 +1,11 @@
+phidata
+python-dotenv
+anthropic
+sqlalchemy 
+psycopg
+pgvector
+streamlit
+pymupdf
+pandas
+plotly
+beautifulsoup4
