@@ -9,3 +9,6 @@ pymupdf
 pandas
 plotly
 beautifulsoup4
+google-auth 
+google-auth-httplib2 
+google-api-python-client
